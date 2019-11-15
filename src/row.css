@@ -1,0 +1,6 @@
+.cell:hover{
+    /*transform: translate3d(-29.7rem, 0, 1rem)!important ;*/
+
+transition: 1s ease ; background: #673fff !important;
+}
+
